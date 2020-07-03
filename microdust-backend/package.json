@@ -1,0 +1,17 @@
+{
+  "name": "MICRODUST-BACKEND",
+  "version": "1.0.0",
+  "description": "전국 미세먼지 농도를 한번에 보여주는 웹",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "temeralre",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
